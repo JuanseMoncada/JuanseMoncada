@@ -1,34 +1,63 @@
-## 👋 Hola, soy Juan Sebastián Moncada  
+<style>
+  @keyframes stars {
+    0% { opacity: 0.3; }
+    50% { opacity: 1; }
+    100% { opacity: 0.3; }
+  }
+  body {
+    background-color: #355C7D;
+    color: #C56D86;
+    animation: stars 3s infinite alternate;
+  }
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FF7582;
+  }
+  .highlight {
+    font-size: 20px;
+    font-weight: bold;
+    color: #725A7A;
+    text-shadow: 0 0 5px #C56D86;
+  }
+</style>
 
-Soy un **Ingeniero de Software** apasionado por el desarrollo backend. Me especializo en **Java, Spring Boot y SQL Server**, con experiencia en **JavaScript, HTML y CSS**. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente. 🚀
+## 👋 Hola, soy <span class="title">Juan Sebastián Moncada</span>  
+
+Soy un <span class="highlight">Ingeniero de Software</span> apasionado por el desarrollo backend. Me especializo en **Java, Spring Boot y SQL Server**, con experiencia en **JavaScript, HTML y CSS**. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente. 🚀
 
 <p align="center">
-  <span style="color: #AAB6FB;">:computer: **Ingeniero de Software**</span><br>
-  <span style="color: #FB7BBE;">:pencil: **Desarrollador Java y Spring Boot**</span><br>
-  <span style="color: #FAA7BB;">:eyeglasses: **Siempre aprendiendo nuevas tecnologías**</span><br>
-  <span style="color: #031BBB;">:oncoming_automobile: **Enfocado en desarrollo Backend**</span><br>
-  <span style="color: #6096FD;">:bulb: **Optimización y escalabilidad en sistemas**</span>
+  <span style="color: #C56D86;">:computer: <span class="highlight">Ingeniero de Software</span></span><br>
+  <span style="color: #FF7582;">:pencil: <span class="highlight">Desarrollador Java y Spring Boot</span></span><br>
+  <span style="color: #725A7A;">:eyeglasses: **Siempre aprendiendo nuevas tecnologías**</span><br>
+  <span style="color: #355C7D;">:oncoming_automobile: **Enfocado en desarrollo Backend**</span><br>
+  <span style="color: #C56D86;">:bulb: **Optimización y escalabilidad en sistemas**</span>
 </p>
 
 ## 🛠 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,sqlserver,javascript,html,css" alt="Tecnologías">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,html,css" alt="Tecnologías">
 </p>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanseMoncada&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
-## 📬 Vías de contacto y proyectos destacados
-
-🔹 **Últimos proyectos**:
-
-- 🎉 [Invitación de Cumpleaños](https://github.com/JuanseMoncada/Invitacion-Cumplea-os) - Un sistema interactivo para generar invitaciones.
-- 📊 [Dashboard de Análisis de Datos](https://github.com/JuanseMoncada/Dashboard-Datos) - Plataforma para visualizar estadísticas.
-- ⚡ [API de Gestión de Usuarios](https://github.com/JuanseMoncada/API-Usuarios) - API REST con Spring Boot y seguridad integrada.
+<table>
+  <tr>
+    <td>
+      <h2>📬 Vías de contacto y proyectos destacados</h2>
+      <ul>
+        <li>🎉 <a href="https://github.com/JuanseMoncada/Invitacion-Cumplea-os">Invitación de Cumpleaños</a> - Un sistema interactivo para generar invitaciones.</li>
+        <li>📊 <a href="https://github.com/JuanseMoncada/Dashboard-Datos">Dashboard de Análisis de Datos</a> - Plataforma para visualizar estadísticas.</li>
+        <li>⚡ <a href="https://github.com/JuanseMoncada/API-Usuarios">API de Gestión de Usuarios</a> - API REST con Spring Boot y seguridad integrada.</li>
+      </ul>
+    </td>
+    <td>
+      <h2>📊 Estadísticas de GitHub</h2>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=JuanseMoncada&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/w/JuanseMoncada/JuanseMoncada" alt="GitHub commit activity">
